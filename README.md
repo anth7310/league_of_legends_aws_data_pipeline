@@ -1,7 +1,8 @@
 # league_of_legends_aws_data_pipeline
 
 ## Architecture
-https://app.diagrams.net/#G1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk
+<!-- https://app.diagrams.net/#G1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk -->
+https://drive.google.com/file/d/1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk/view?usp=sharing
 
 ## Riot Games API
 https://developer.riotgames.com/
@@ -13,7 +14,8 @@ https://codepull.com/api/getting-league-of-legends-matches-stats-from-the-riot-a
 # Branching
 ## Quick Legend
 
-https://app.diagrams.net/#G1o0cAKuwAXq0weoErkaH908U7vLIxuaHk
+<!-- https://app.diagrams.net/#G1o0cAKuwAXq0weoErkaH908U7vLIxuaHk -->
+https://drive.google.com/file/d/1o0cAKuwAXq0weoErkaH908U7vLIxuaHk/view?usp=sharing
 
 <table>
   <thead>
