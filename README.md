@@ -4,11 +4,17 @@
 <!-- https://app.diagrams.net/#G1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk -->
 https://drive.google.com/file/d/1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk/view?usp=sharing
 
+## Data Lake In Detail
+https://drive.google.com/file/d/1BgxCjqmsHFXXn1rtrulL5mYoMx1CCAQX/view?usp=sharing
+
 ## Riot Games API
 https://developer.riotgames.com/
 
 ## Get LOL match stats from riot API tutorial
 https://codepull.com/api/getting-league-of-legends-matches-stats-from-the-riot-api/
+
+## Python Wrapper for Riot API - Riot-Watcher
+https://github.com/pseudonym117/Riot-Watcher
 
 
 # Branching
