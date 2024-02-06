@@ -1,5 +1,12 @@
 # league_of_legends_aws_data_pipeline
 
+terraform
+```
+terraform plan
+terraform apply
+```
+
+
 ## Architecture
 <!-- https://app.diagrams.net/#G1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk -->
 https://drive.google.com/file/d/1fJ1W6g2-mm60orAUfKXTEBc6P9ZiJROk/view?usp=sharing
